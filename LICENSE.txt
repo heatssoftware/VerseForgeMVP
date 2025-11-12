@@ -1,0 +1,22 @@
+© 2025 VerseForge. All Rights Reserved.
+
+This software and its original code, assets, and documentation are the intellectual property of VerseForge.
+Certain third-party components are included under their respective open-source licenses.
+
+You may not:
+- Copy, reproduce, or distribute this software or any part of it without permission
+- Modify, reverse engineer, or create derivative works based on this software
+- Use this software for commercial purposes without explicit written authorization
+
+Permission is granted to install and use this MVP build for personal, non-commercial purposes only.
+
+---
+
+This software includes FFmpeg, licensed under the LGPL v2.1 (or later).
+FFmpeg is © the FFmpeg developers.
+Source code and license are available at https://ffmpeg.org/
+
+---
+
+For inquiries regarding commercial licensing, partnerships, or redistribution rights, please contact:
+dev@verseforge.site
