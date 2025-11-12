@@ -1,5 +1,9 @@
 # VerseForge MVP  
 *Here will be all of the first updates of the VerseForge MVP*
+## Setup executable
+⚠️ This is an unsigned executable. Windows SmartScreen may warn you when running it.  
+You can still run it safely.
+Anyway here is the [Download](https://github.com/heatssoftware/VerseForgeMVP/releases/download/setup/VerseForgeSetup.exe)
 
 ## 🚀 About the Project  
 **VerseForge** is a desktop application that allows you to sync song lyrics with music in real time, create animated backgrounds and personalize the visual experience of your music. Visit my website for more: [verseforge.site](https://verseforge.site)  
